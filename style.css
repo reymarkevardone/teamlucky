@@ -33,10 +33,10 @@ body{
 .login{
   color: red;
   background-color:#e6ffff;
-  font-size: 80px;
+  font-size: 60px;
   font-style: bold;
-  padding-left: 90px;
-  padding-top: 30px;
+  margin-bottom: 5px;
+  border-radius: 10%;
 }
 
 
@@ -70,13 +70,18 @@ body{
   position: center;
   border: 5px solid red;
 }
-.ahente{
+.master{
   background-color:red;
+  margin-bottom: 5px;
 }
-.ahenteyan{
+.agent{
   background-color:gold;
+  margin-bottom: 5px;
 }
 .all{
   font-size: 100px;
+  
+}
+a{font-size: 40px;
   
 }
